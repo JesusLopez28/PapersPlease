@@ -1,0 +1,10 @@
+1 Jesus Lopez 20 M Mexican 1 0
+2 Pablo Escobar 44 M Colombian 0 3
+3 Andrea Basulto 18 F Mexican 1 0
+4 Adolf Hitler 56 M German 0 1
+5 Margarita Rosales 50 F Mexican 1 0
+6 Kim Jong 38 M Korean 0 2
+7 Socorro Corona 76 F Mexican 1 0
+8 Pol Pot 72 M Cambodian 0 4
+9 Elvira Vargas 72 F Mexican 1 0
+10 Genghis Khan 65 M Mongolian 0 5
